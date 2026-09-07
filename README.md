@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Based Smart Inventory & Automated Supplier Reordering System
 
 A complete production-quality smart inventory dashboard featuring automated days-remaining calculations, FEFO batch expiry rules, custom reorder formulas, open-source AI email drafting via OpenRouter + LangChain, human-in-the-loop email approval workflow, and SMTP/OAuth2 sending via the Gmail API.
@@ -93,3 +94,21 @@ docker-compose up --build
 ```
 - Frontend: `http://localhost:5173`
 - Backend docs: `http://localhost:8000/docs`
+=======
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+
+## React Compiler
+
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+
+## Expanding the Oxlint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+>>>>>>> a630576 (frontend folder)
