@@ -1,0 +1,16 @@
+id,supplier_name,company_name,email,phone,address,preferred_contact_method,average_delivery_days,emergency_available,priority,status,created_at,updated_at
+1,Acme Medical Supplies,Acme Corp,orders@acmecorp.com,+91-9813455506,"135 Industrial Zone, Sector-4, Mumbai, India",phone,4,false,PREFERRED,ACTIVE,2025-08-01T00:00:00+00:00,2025-08-01T00:00:00+00:00
+2,Medline Hospital Equipment,Medline Industries,orders@medlineindustries.com,+91-9885457912,"26 Industrial Zone, Sector-1, Mumbai, India",phone,4,false,PREFERRED,ACTIVE,2025-08-01T00:00:00+00:00,2025-08-01T00:00:00+00:00
+3,Cardinal Health Solutions,Cardinal Health Inc,orders@cardinalhealthinc.com,+91-9881454257,"376 Industrial Zone, Sector-11, Mumbai, India",email,3,true,PREFERRED,ACTIVE,2025-08-01T00:00:00+00:00,2025-08-01T00:00:00+00:00
+4,McKesson Pharma,McKesson Corporation,orders@mckessoncorporation.com,+91-9885455557,"424 Industrial Zone, Sector-14, Mumbai, India",phone,10,true,HIGH,ACTIVE,2025-08-01T00:00:00+00:00,2025-08-01T00:00:00+00:00
+5,Raj Medical Wholesale,Raj Enterprises,orders@rajenterprises.com,+91-9853455552,"89 Industrial Zone, Sector-4, Mumbai, India",email,9,false,HIGH,ACTIVE,2025-08-01T00:00:00+00:00,2025-08-01T00:00:00+00:00
+6,Global Biotech Reagents,Global Biotech Ltd,orders@globalbiotechltd.com,+91-9858452584,"193 Industrial Zone, Sector-14, Mumbai, India",email,4,false,HIGH,ACTIVE,2025-08-01T00:00:00+00:00,2025-08-01T00:00:00+00:00
+7,Premier Surgicals,Premier Products,orders@premierproducts.com,+91-9868459785,"73 Industrial Zone, Sector-15, Mumbai, India",email,3,true,HIGH,ACTIVE,2025-08-01T00:00:00+00:00,2025-08-01T00:00:00+00:00
+8,Helix Diagnostics,Helix Labs,orders@helixlabs.com,+91-9883454150,"370 Industrial Zone, Sector-2, Mumbai, India",phone,8,false,MEDIUM,ACTIVE,2025-08-01T00:00:00+00:00,2025-08-01T00:00:00+00:00
+9,Safety First PPE,Safety First Group,orders@safetyfirstgroup.com,+91-9820454814,"453 Industrial Zone, Sector-2, Mumbai, India",email,7,true,MEDIUM,ACTIVE,2025-08-01T00:00:00+00:00,2025-08-01T00:00:00+00:00
+10,Apex Pharmaceuticals,Apex Pharma Ltd,orders@apexpharmaltd.com,+91-9830457065,"191 Industrial Zone, Sector-4, Mumbai, India",email,8,true,MEDIUM,ACTIVE,2025-08-01T00:00:00+00:00,2025-08-01T00:00:00+00:00
+11,Lifeline Medicals,Lifeline Healthcare,orders@lifelinehealthcare.com,+91-9887453803,"283 Industrial Zone, Sector-12, Mumbai, India",phone,4,true,MEDIUM,ACTIVE,2025-08-01T00:00:00+00:00,2025-08-01T00:00:00+00:00
+12,Beacon Lab Supplies,Beacon Scientific,orders@beaconscientific.com,+91-9891454598,"360 Industrial Zone, Sector-6, Mumbai, India",email,7,true,MEDIUM,ACTIVE,2025-08-01T00:00:00+00:00,2025-08-01T00:00:00+00:00
+13,Comfort Care Gloves,Comfort Care Inc,orders@comfortcareinc.com,+91-9814456168,"215 Industrial Zone, Sector-5, Mumbai, India",phone,6,true,LOW,ACTIVE,2025-08-01T00:00:00+00:00,2025-08-01T00:00:00+00:00
+14,Metro Surgical Supplies,Metro Surgicals,orders@metrosurgicals.com,+91-9837459179,"212 Industrial Zone, Sector-15, Mumbai, India",email,8,true,LOW,ACTIVE,2025-08-01T00:00:00+00:00,2025-08-01T00:00:00+00:00
+15,Zenith Health Supplies,Zenith Pharma,orders@zenithpharma.com,+91-9827455040,"391 Industrial Zone, Sector-9, Mumbai, India",email,7,true,LOW,ACTIVE,2025-08-01T00:00:00+00:00,2025-08-01T00:00:00+00:00

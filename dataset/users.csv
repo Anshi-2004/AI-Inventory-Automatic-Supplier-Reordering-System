@@ -1,0 +1,3 @@
+id,name,email,password_hash,role,is_active,created_at,updated_at
+1,Admin User,admin@inventory.com,$2b$12$R.S1nQJ5827.y.o/U8a19e5n9L0X.C7Q2vJgZ0z392V3y0o5LqW6q,ADMIN,true,2025-08-01T00:00:00+00:00,2025-08-01T00:00:00+00:00
+2,Inventory Manager,manager@inventory.com,$2b$12$K89K9G1O2T3s4n5a6B7c8DeF.GHIJKLMNoPQRSTUVWXYZ.12345678,INVENTORY_MANAGER,true,2025-08-01T00:00:00+00:00,2025-08-01T00:00:00+00:00
